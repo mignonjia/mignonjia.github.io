@@ -7,14 +7,14 @@ author_profile: true
 
 ## Education
 
-* <b>University of Illinois Urbana-Champaign</b>
-    * Department of Electrical and Computer Engineering <span style="float:right;"> Aug 2020 - Dec 2022 </span>
+* <b>University of Illinois Urbana-Champaign</b> <span style="float:right;"> Aug 2020 - Dec 2022 </span>
+    * Department of Electrical and Computer Engineering 
         * M.S. in Electrical and Computer Engineering
         * <i>Advisor</i>: [Kirill Levchenko](https://klevchen.ece.illinois.edu/)
 
 
-* <b>Peking University</b>
-    * School of Electronics Engineering and Computer Science <span style="float:right;"> Sept 2016 - Jul 2020 </span>
+* <b>Peking University</b> <span style="float:right;"> Sept 2016 - Jul 2020 </span>
+    * School of Electronics Engineering and Computer Science 
         * B.S. in Computer Science and Technology (CS pilot class)
 
 ## Work 
