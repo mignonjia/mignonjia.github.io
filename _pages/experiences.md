@@ -24,6 +24,6 @@ author_profile: true
 
 ## Teaching
 
-* TA of *ECE 445: Senior Design Laboratory*  <span style="float:right;">University of Illinois Urbana-Champaign, Fall 2022</span>
-* TA of *CS 461: Computer Security I*  <span style="float:right;">University of Illinois Urbana-Champaign, Spring 2022</span>
-* TA of *Theoretical Computer Science*  <span style="float:right;">Peking University, Spring 2019</span>
+* TA of *ECE 445: Senior Design Laboratory*  <span style="float:right;">UIUC, Fall 2022</span>
+* TA of *CS 461: Computer Security I*  <span style="float:right;">UIUC, Spring 2022</span>
+* TA of *Theoretical Computer Science*  <span style="float:right;">PKU, Spring 2019</span>
