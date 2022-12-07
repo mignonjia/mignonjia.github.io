@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-* I'm a graduating MS student in University of Illinois Urbana-Champaign. Previously, I received my bachelor's degree in Peking University. 
-* My research interests lie in the privacy issues in machine learning, for example, healthcare-related applications.
-* Here is my [cv](http://mignonjia.github.io/files/cv_.pdf).
+* I'm a graduating MS student in Department of Electrical and Computer Engineering, University of Illinois Urbana-Champaign. Previously, I received my bachelor's degree from School of Electronics Engineering & Computer Science, Peking University. 
+* My research interests lie in the privacy issues in machine learning, both its theory and practices. Specifically, I am currently working on health-related applications.
+* Here is my [cv](http://mignonjia.github.io/files/cv.pdf).
