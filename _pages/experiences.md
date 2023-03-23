@@ -6,20 +6,21 @@ author_profile: true
 ---
 
 ## Education
+* <b>University of California San Diego</b> <span style="float:right;"> Starting Sep 2023 </span>
+    * Ph.D. in Electrical and Computer Engineering
+    * <i>Advisor</i>: [Pengtao Xie](https://sites.google.com/site/pengtaoxie2008)
 
 * <b>University of Illinois Urbana-Champaign</b> <span style="float:right;"> Aug 2020 - Dec 2022 </span>
-    * Department of Electrical and Computer Engineering 
-        * M.S. in Electrical and Computer Engineering
-        * <i>Advisor</i>: [Kirill Levchenko](https://klevchen.ece.illinois.edu/)
+    * M.S. in Electrical and Computer Engineering
+    * <i>Advisor</i>: [Kirill Levchenko](https://klevchen.ece.illinois.edu/)
 
 
 * <b>Peking University</b> <span style="float:right;"> Sept 2016 - Jul 2020 </span>
-    * School of Electronics Engineering and Computer Science 
-        * B.S. in Computer Science and Technology (CS pilot class)
+    * B.S. in Computer Science and Technology (CS pilot class)
 
 ## Work 
 
-* <b>Trova AI, Champaign</b><span style="float:right;"> May 2022 - now </span>
+* <b>Trova AI, Champaign</b><span style="float:right;"> May 2022 - May 2023 </span>
     * Intern on AI Software Development hosted by [Sanjay Patel](https://sjp.ece.illinois.edu/)
 
 ## Teaching

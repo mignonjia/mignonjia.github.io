@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-* I'm a graduating MS student in Department of Electrical and Computer Engineering, University of Illinois Urbana-Champaign. Previously, I received my bachelor's degree from School of Electronics Engineering & Computer Science, Peking University. 
-* My research interests lie in the privacy issues in machine learning from theory to practices. Specifically, I am currently working on health-related applications.
+* I'm a incoming PhD student in Department of Electrical and Computer Engineering, University of California San Diego. Previously, I received my bachelor's degree from EECS, Peking University, and MS degree from ECE, UIUC. 
+* My research interests is mainly trustworthy machine learning. Currently, I am working on health-related applications.
 * Here is my [cv](http://mignonjia.github.io/files/cv.pdf).
