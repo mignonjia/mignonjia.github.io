@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-* I'm an incoming PhD student in Department of Electrical and Computer Engineering, University of California San Diego. Previously, I received my bachelor's degree from EECS, Peking University, and MS degree from ECE, UIUC. 
-* My research interests is mainly trustworthy machine learning. Currently, I am working on health-related applications.
+* I'm a first-year PhD student in Department of Electrical and Computer Engineering, University of California San Diego. Previously, I received my bachelor's degree from EECS, Peking University, and MS degree from ECE, UIUC. 
+* I'm co-advised by [Prof. Pengtao Xie](https://pengtaoxie.github.io/) and [Prof. Shamim Nemati](https://www.nematilab.info/). I also work closely with [Prof. Farinaz Koushanfar](https://farinaz.eng.ucsd.edu/home).
+* My research interest is mainly trustworthy machine learning. Currently, I am working on health-related applications. I also had experiences on multimodal learning and developing LLM chatbot.
 * Here is my [cv](http://mignonjia.github.io/files/cv.pdf).
