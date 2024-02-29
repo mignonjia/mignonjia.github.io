@@ -5,6 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
+<b>Token-Specific Watermarking with Enhanced Detectability and Semantic Coherence for Large Language Models</b><br>
+<b>Mingjia Huo</b>, Sai Ashish Somayajula, Youwei Liang, Ruisi Zhang, Farinaz Koushanfar, Pengtao Xie<br>
+[arXiv](https://arxiv.org/abs/2402.18059)
+
+
 <b>ProteinChat: Towards Enabling ChatGPT-Like Capabilities on Protein 3D Structures</b><br>
 Han Guo, <b>Mingjia Huo</b>, Pengtao Xie<br>
 [GitHub](https://github.com/UCSD-AI4H/proteinchat)
