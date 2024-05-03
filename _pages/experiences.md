@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Education
-* <b>University of California San Diego</b> <span style="float:right;"> Sep 2023 - now</span>
+* <b>University of California San Diego</b> <span style="float:right;"> Sep 2023 - now </span>
     * Ph.D. in Electrical and Computer Engineering
     * <i>Advisor</i>: [Pengtao Xie](https://sites.google.com/site/pengtaoxie2008) and [Shamim Nemati](https://www.nematilab.info/)
 
