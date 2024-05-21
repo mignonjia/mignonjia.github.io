@@ -7,6 +7,7 @@ author_profile: true
 
 <b>Token-Specific Watermarking with Enhanced Detectability and Semantic Coherence for Large Language Models</b><br>
 <b>Mingjia Huo</b>, Sai Ashish Somayajula, Youwei Liang, Ruisi Zhang, Farinaz Koushanfar, Pengtao Xie<br>
+<i>ICML 2024</i>.<br>
 [arXiv](https://arxiv.org/abs/2402.18059)
 
 
