@@ -5,15 +5,15 @@ permalink: /publications/
 author_profile: true
 ---
 
+<b>Multi-Modal Large Language Model Enables Protein Function Prediction</b><br>
+<b>Mingjia Huo</b>, Han Guo, Xingyi Cheng, Hamidreza Rahmani, Digvijay Singh, Shen Li, Philipp Gerlof, Trey Ideker, Elizabeth Villa, Danielle Grotjahn, Le Song, Pengtao Xie<br>
+[GitHub](https://github.com/mignonjia/ProteinChat)
+
+
 <b>Token-Specific Watermarking with Enhanced Detectability and Semantic Coherence for Large Language Models</b><br>
 <b>Mingjia Huo</b>, Sai Ashish Somayajula, Youwei Liang, Ruisi Zhang, Farinaz Koushanfar, Pengtao Xie<br>
 <i>ICML 2024</i>.<br>
 [arXiv](https://arxiv.org/abs/2402.18059)
-
-
-<b>ProteinChat: Towards Enabling ChatGPT-Like Capabilities on Protein 3D Structures</b><br>
-Han Guo, <b>Mingjia Huo</b>, Pengtao Xie<br>
-[GitHub](https://github.com/UCSD-AI4H/proteinchat)
 
 
 <b>All Eyes On Me: Inside Trackers’ Exfiltration of PHI from Healthcare Providers’ Online Systems. </b><br>
