@@ -14,7 +14,7 @@ author_profile: true
     * M.S. in Electrical and Computer Engineering
     * <i>Advisor</i>: [Kirill Levchenko](https://klevchen.ece.illinois.edu/)
 
-* <b>Peking University</b> <span style="float:right;"> Sept 2016 - Jul 2020 </span>
+* <b>Peking University</b> <span style="float:right;"> Sep 2016 - Jul 2020 </span>
     * B.S. in Computer Science and Technology (Turing class)
 
 ## Work 
