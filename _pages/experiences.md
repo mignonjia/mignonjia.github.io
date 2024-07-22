@@ -19,7 +19,7 @@ author_profile: true
 
 ## Work 
 
-* <b>BioMap</b><span style="float:right;"> June 2023 - August 2023 </span>
+* <b>BioMap</b><span style="float:right;"> Jun 2023 - Aug 2023 </span>
     * Machine Learning Intern hosted by [Le Song](https://dasongle.github.io/index.html)
 
 ## Teaching
