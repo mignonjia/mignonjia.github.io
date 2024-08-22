@@ -6,8 +6,8 @@ author_profile: true
 ---
 
 <b>Multi-Modal Large Language Model Enables Protein Function Prediction</b><br>
-<b>Mingjia Huo</b>, Han Guo, Xingyi Cheng, Hamidreza Rahmani, Digvijay Singh, Shen Li, Philipp Gerlof, Trey Ideker, Elizabeth Villa, Danielle Grotjahn, Le Song, Pengtao Xie<br>
-[GitHub](https://github.com/mignonjia/ProteinChat)
+<b>Mingjia Huo</b>, Han Guo, Xingyi Cheng, Digvijay Singh, Hamidreza Rahmani, Shen Li, Philipp Gerlof, Trey Ideker, Danielle A. Grotjahn, Elizabeth Villa, Le Song, Pengtao Xie<br>
+[arXiv](https://www.biorxiv.org/content/10.1101/2024.08.19.608729v1) [GitHub](https://github.com/mignonjia/ProteinChat)
 
 
 <b>Token-Specific Watermarking with Enhanced Detectability and Semantic Coherence for Large Language Models</b><br>
