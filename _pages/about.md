@@ -10,5 +10,5 @@ redirect_from:
 
 * I'm a second-year PhD student in Department of Electrical and Computer Engineering, University of California San Diego. Previously, I received my bachelor's degree from Turing Class in EECS, Peking University, and MS degree from ECE, UIUC. 
 * I'm co-advised by [Prof. Pengtao Xie](https://pengtaoxie.github.io/) and [Prof. Shamim Nemati](https://www.nematilab.info/).
-* I worked on large language models and multi-modal learning. I also have experiences in health-related applications.
+* I have worked on a range of topics related to large language models, including LLM watermarking and LLM for science. Currently I am working on LLM reasoning.
 * My CV can be found [here](files/cv.pdf).
