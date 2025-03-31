@@ -8,9 +8,11 @@ author_profile: true
 ## Education
 * <b>University of California San Diego</b> <span style="float:right;"> Sep 2023 - now </span>
     * Ph.D. in Electrical and Computer Engineering
+    * <i>Advisor</i>: [Pengtao Xie](https://sites.google.com/site/pengtaoxie2008)
 
 * <b>University of Illinois Urbana-Champaign</b> <span style="float:right;"> Aug 2020 - Dec 2022 </span>
     * M.S. in Electrical and Computer Engineering
+    * <i>Advisor</i>: [Kirill Levchenko](https://klevchen.ece.illinois.edu/)
 
 * <b>Peking University</b> <span style="float:right;"> Sep 2016 - Jul 2020 </span>
     * B.S. in Computer Science and Technology (Turing class)
@@ -18,7 +20,7 @@ author_profile: true
 ## Work 
 
 * <b>BioMap</b><span style="float:right;"> Jun 2023 - Aug 2023 </span>
-    * Machine Learning Intern
+    * Machine Learning Intern hosted by [Le Song](https://dasongle.github.io/index.html)
 
 ## Teaching
 
