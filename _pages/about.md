@@ -9,4 +9,5 @@ redirect_from:
 ---
 
 * I'm a second-year PhD student in Department of Electrical and Computer Engineering, University of California San Diego. Previously, I received my bachelor's degree from Turing Class in EECS, Peking University, and MS degree from ECE, UIUC. 
-* I have worked on a range of topics related to large language models, including watermarking and applications in scientific domains. Currently, my focus is on LLM reasoning.
+* I am fortunate to be advised by Prof. Hao Zhang and Prof. Tajana Rosing.
+* My research focus is LLM reasoning and benchmarking.
