@@ -4,6 +4,10 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+<b>LMGAME-BENCH: How Good are LLMs at Playing Games?</b><br>
+Lanxiang Hu*, <b>Mingjia Huo*</b>, Yuxuan Zhang, Haoyang Yu, Eric P. Xing, Ion Stoica, Tajana Rosing, Haojian Jin, Hao Zhang
+[arXiv](https://arxiv.org/pdf/2505.15146) [GitHub](https://github.com/lmgame-org/GamingAgent)
+
 
 <b>Multi-Modal Large Language Model Enables Protein Function Prediction</b><br>
 <b>Mingjia Huo</b>, Han Guo, Xingyi Cheng, Digvijay Singh, Hamidreza Rahmani, Shen Li, Philipp Gerlof, Trey Ideker, Danielle A. Grotjahn, Elizabeth Villa, Le Song, Pengtao Xie<br>
@@ -11,9 +15,9 @@ author_profile: true
 
 
 <b>Token-Specific Watermarking with Enhanced Detectability and Semantic Coherence for Large Language Models</b><br>
-<b>Mingjia Huo* </b>, Sai Ashish Somayajula* , Youwei Liang, Ruisi Zhang, Farinaz Koushanfar, Pengtao Xie<br>
+<b>Mingjia Huo*</b>, Sai Ashish Somayajula* , Youwei Liang, Ruisi Zhang, Farinaz Koushanfar, Pengtao Xie<br>
 <i>ICML 2024</i>.<br>
-[arXiv](https://arxiv.org/abs/2402.18059)
+[arXiv](https://arxiv.org/abs/2402.18059) [GitHub](https://github.com/mignonjia/TS_watermark)
 
 
 <b>All Eyes On Me: Inside Trackers’ Exfiltration of PHI from Healthcare Providers’ Online Systems. </b><br>
