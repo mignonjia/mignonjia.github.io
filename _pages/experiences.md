@@ -19,7 +19,6 @@ author_profile: true
 
 ## Work 
 
-* <b>Microsoft</b><span style="float:right;"> Jun 2025 - Sep 2025 </span>
 * <b>BioMap</b><span style="float:right;"> Jun 2023 - Aug 2023 </span>
 
 ## Awards
