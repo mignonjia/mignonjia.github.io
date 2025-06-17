@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 <b>LMGAME-BENCH: How Good are LLMs at Playing Games?</b><br>
-Lanxiang Hu*, <b>Mingjia Huo*</b>, Yuxuan Zhang, Haoyang Yu, Eric P. Xing, Ion Stoica, Tajana Rosing, Haojian Jin, Hao Zhang
+Lanxiang Hu*, <b>Mingjia Huo*</b>, Yuxuan Zhang, Haoyang Yu, Eric P. Xing, Ion Stoica, Tajana Rosing, Haojian Jin, Hao Zhang<br>
 <a href="https://arxiv.org/pdf/2505.15146">arXiv</a> <a href="https://github.com/lmgame-org/GamingAgent">GitHub</a>
 
 
@@ -15,7 +15,7 @@ Lanxiang Hu*, <b>Mingjia Huo*</b>, Yuxuan Zhang, Haoyang Yu, Eric P. Xing, Ion S
 
 
 <b>Token-Specific Watermarking with Enhanced Detectability and Semantic Coherence for Large Language Models</b><br>
-<b>Mingjia Huo*</b>, Sai Ashish Somayajula*, Youwei Liang, Ruisi Zhang, Farinaz Koushanfar, Pengtao Xie<br>
+<b>Mingjia Huo\*</b>, Sai Ashish Somayajula\*, Youwei Liang, Ruisi Zhang, Farinaz Koushanfar, Pengtao Xie<br>
 <i>ICML 2024</i>.<br>
 <a href="https://arxiv.org/abs/2402.18059">arXiv</a> <a href="https://github.com/mignonjia/TS_watermark">GitHub</a>
 
