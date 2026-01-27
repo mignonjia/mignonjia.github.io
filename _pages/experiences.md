@@ -17,9 +17,11 @@ author_profile: true
 * <b>Peking University</b> <span style="float:right;"> Sep 2016 - Jul 2020 </span>
     * B.S. in Computer Science and Technology (Turing class)
 
-## Work 
+## Internship
 
-* <b>BioMap</b><span style="float:right;"> Jun 2023 - Aug 2023 </span>
+* Summer 2025: 
+    * Student Researcher at Google DeepMind
+    * Mentor: Yao Fu, Jiaxi Tang
 
 ## Awards
 
