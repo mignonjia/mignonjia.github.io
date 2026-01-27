@@ -4,8 +4,9 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-<b>LMGAME-BENCH: How Good are LLMs at Playing Games?</b><br>
+<b>LMGame-Bench: How Good are LLMs at Playing Games?</b><br>
 Lanxiang Hu*, <b>Mingjia Huo*</b>, Yuxuan Zhang, Haoyang Yu, Eric P. Xing, Ion Stoica, Tajana Rosing, Haojian Jin, Hao Zhang<br>
+<i>ICLR 2026</i>.<br>
 <a href="https://arxiv.org/pdf/2505.15146">arXiv</a> <a href="https://github.com/lmgame-org/GamingAgent">GitHub</a>
 
 
