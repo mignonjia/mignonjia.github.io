@@ -11,7 +11,7 @@ Lanxiang Hu*, <b>Mingjia Huo*</b>, Yuxuan Zhang, Haoyang Yu, Eric P. Xing, Ion S
 
 
 <b>Multi-Modal Large Language Model Enables Protein Function Prediction</b><br>
-<b>Mingjia Huo</b>, Han Guo, Xingyi Cheng, Digvijay Singh, Hamidreza Rahmani, Shen Li, Philipp Gerlof, Trey Ideker, Danielle A. Grotjahn, Elizabeth Villa, Le Song, Pengtao Xie<br>
+Han Guo, <b>Mingjia Huo</b>, Xingyi Cheng, Digvijay Singh, Hamidreza Rahmani, Shen Li, Philipp Gerlof, Trey Ideker, Danielle A. Grotjahn, Elizabeth Villa, Le Song, Pengtao Xie<br>
 <a href="https://www.biorxiv.org/content/10.1101/2024.08.19.608729v1">arXiv</a> <a href="https://github.com/mignonjia/ProteinChat">GitHub</a>
 
 
