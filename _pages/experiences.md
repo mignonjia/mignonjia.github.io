@@ -19,6 +19,10 @@ author_profile: true
 
 ## Internship
 
+* Summer 2026: 
+    * AI Research Intern at MBZUAI-IFM.
+    * Mentor: Zihan Liu
+
 * Summer 2025: 
     * Student Researcher at Google DeepMind
     * Mentor: Yao Fu, Jiaxi Tang
