@@ -21,7 +21,7 @@ author_profile: true
 
 * Summer 2026: 
     * AI Research Intern at MBZUAI-IFM.
-    * Mentor: Zihan Liu
+    * Mentor: Zihan Liu, Jiuhai Chen
 
 * Summer 2025: 
     * Student Researcher at Google DeepMind

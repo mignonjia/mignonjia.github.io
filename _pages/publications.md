@@ -4,6 +4,11 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+<b>Evaluating Spatiotemporal Reasoning of Vision-Language Models in Atari Gameplay</b><br>
+<b>Mingjia Huo</b>, Yao Fu, Bo Chang, Yaqing Wang, Dawei Zhu, Dylan Zhang, Xinyang Yi, Lichan Hong, Ed H. Chi, Hao Zhang, Jiaxi Tang <br>
+<i>NeurIPS 2026 Evaluations and Datasets</i>.<br>
+
+
 <b>HeroWorld: Long-Horizon Action-Conditioned World Models for Third-Person Games</b><br>
 <b>Mingjia Huo</b>, Kaiqin Kong, Minshen Zhang, Shaoxiong Duan, Junda Su, Will Lin, Hao Zhang <br>
 <i>F2S@ICML 2026 Workshop</i>.<br>
