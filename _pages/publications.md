@@ -12,7 +12,7 @@ author_profile: true
 <b>HeroWorld: Long-Horizon Action-Conditioned World Models for Third-Person Games</b><br>
 <b>Mingjia Huo</b>, Kaiqin Kong, Minshen Zhang, Shaoxiong Duan, Junda Su, Will Lin, Hao Zhang <br>
 <i>F2S@ICML 2026 Workshop</i>.<br>
-[Paper](files/HeroWorld.pdf) <a href="https://github.com/hao-ai-lab/FastVideo">GitHub</a>
+[Paper](/files/HeroWorld.pdf) <a href="https://github.com/hao-ai-lab/FastVideo">GitHub</a>
 
 
 <b>LMGame-Bench: How Good are LLMs at Playing Games?</b><br>
