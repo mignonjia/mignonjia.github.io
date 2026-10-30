@@ -7,6 +7,7 @@ author_profile: true
 <b>Evaluating Spatiotemporal Reasoning of Vision-Language Models in Atari Gameplay</b><br>
 <b>Mingjia Huo</b>, Yao Fu, Bo Chang, Yaqing Wang, Dawei Zhu, Dylan Zhang, Xinyang Yi, Lichan Hong, Ed H. Chi, Hao Zhang, Jiaxi Tang <br>
 <i>NeurIPS 2026 Evaluations and Datasets</i>.<br>
+<a href="https://mignonjia.github.io/AtariBench/">Paper</a> <a href="https://colab.research.google.com/drive/1QGKH3j1goKbDgQy1sJCPXkpEb-tFy38Y">Code</a>
 
 
 <b>HeroWorld: Long-Horizon Action-Conditioned World Models for Third-Person Games</b><br>
@@ -22,7 +23,8 @@ Lanxiang Hu*, <b>Mingjia Huo*</b>, Yuxuan Zhang, Haoyang Yu, Eric P. Xing, Ion S
 
 
 <b>Multi-Modal Large Language Model Enables Protein Function Prediction</b><br>
-Han Guo, <b>Mingjia Huo</b>, Xingyi Cheng, Digvijay Singh, Hamidreza Rahmani, Shen Li, Philipp Gerlof, Trey Ideker, Danielle A. Grotjahn, Elizabeth Villa, Le Song, Pengtao Xie<br>
+Han Guo*, <b>Mingjia Huo*</b>, Xingyi Cheng, Digvijay Singh, Hamidreza Rahmani, Shen Li, Philipp Gerlof, Trey Ideker, Danielle A. Grotjahn, Elizabeth Villa, Le Song, Pengtao Xie<br>
+<i>Nature Structural & Molecular Biology</i>.<br>
 <a href="https://www.biorxiv.org/content/10.1101/2024.08.19.608729v1">Paper</a> <a href="https://github.com/mignonjia/ProteinChat">GitHub</a>
 
 
